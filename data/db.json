@@ -1,0 +1,74 @@
+{
+  "guilds": {
+    "1428515942870290505": {
+      "categoryId": "1465627197921427666",
+      "staffRoles": [
+        "1528163356358217898"
+      ],
+      "ratingChannelId": null,
+      "pointsChannelId": null,
+      "pointsConfig": {
+        "perClaim": 1,
+        "milestones": {
+          "5": 5,
+          "10": 7,
+          "30": 20
+        }
+      },
+      "counter": 3,
+      "tickets": {},
+      "staff": {
+        "1440068191333388492": {
+          "points": 10002,
+          "claimed": 2,
+          "ratingSum": 0,
+          "ratingCount": 0
+        },
+        "1568772897605161041": {
+          "points": 1,
+          "claimed": 1,
+          "ratingSum": 1,
+          "ratingCount": 1
+        }
+      }
+    },
+    "1568774443713695876": {
+      "categoryId": "1568932820804567110",
+      "staffRoles": [
+        "1571274037315895366"
+      ],
+      "ratingChannelId": null,
+      "pointsChannelId": null,
+      "pointsConfig": {
+        "perClaim": 1,
+        "milestones": {
+          "5": 5,
+          "10": 7,
+          "30": 20
+        }
+      },
+      "counter": 1,
+      "tickets": {},
+      "staff": {}
+    },
+    "1572974817823432894": {
+      "categoryId": "1572982355499683980",
+      "staffRoles": [
+        "1573033853948268564"
+      ],
+      "ratingChannelId": null,
+      "pointsChannelId": null,
+      "pointsConfig": {
+        "perClaim": 1,
+        "milestones": {
+          "5": 5,
+          "10": 7,
+          "30": 20
+        }
+      },
+      "counter": 0,
+      "tickets": {},
+      "staff": {}
+    }
+  }
+}
